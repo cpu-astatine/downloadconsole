@@ -1,4 +1,4 @@
-### Programmer: cpu-astatine #
+<h1>Programmer: cpu-astatine</h1>
 ### Türkçe Kullanıcılar Için #
 Görmüş oldugunuz program, WGET veya Git üzerinden yapılacak kurulumların grafik program 
 üzerinden kolayca indirilmesi için yapılmış ve yazılmış programdır. Gerekli kurulumlar 
